@@ -1,1 +1,1 @@
-# project1
+• **The Kana Learning Game offers an immersive 3D experience designed for mastering Japanese syllabaries (Hiragana and Katakana). Users engage in playful character recognition practice, creating an interactive and effective learning environment**
